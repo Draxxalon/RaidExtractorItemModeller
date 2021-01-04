@@ -32,3 +32,5 @@ How to use:
 8 - It should load the data in the saved .json file.   If not, hit the "Refresh" button
 
 NOTE:  The file name and location noted in steps 2 and 6 is REQUIRED!  And no, I cannot make it more flexible.
+
+Once you have the pbit open, you can just hit the refresh button to load new data (after it has been extracted via raid extractor)
